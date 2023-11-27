@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "servicelayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ntobekosikithi/ServiceLayer/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a88ae33e504d52252e1ea1c68d607d3da5d75cd0"
+      }
+    }
+  ],
+  "version" : 2
+}
